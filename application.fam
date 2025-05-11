@@ -1,3 +1,3 @@
-name: Lac Viewer
-description: Displays a lake image on Flipper Zero
+name: lacviewer
+description: Simple image viewer
 icon: default
